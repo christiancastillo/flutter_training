@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.t_flutter">
    <application
-        android:label="t_flutter"
+        android:label="flutter_training"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
